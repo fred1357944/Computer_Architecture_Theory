@@ -56,5 +56,4 @@
 
 ## 資源
 - [Rhino Developer Docs](https://developer.rhino3d.com/)
-- [食譜網站](https://grasshopperprimer.com/)
-- Discord群組：[邀請連結]
+- [學習網站](https://grasshopperprimer.com/)
