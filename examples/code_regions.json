@@ -1,0 +1,272 @@
+[
+  {
+    "page": 6,
+    "region": 1,
+    "image": "examples/code_p006_138_446.png",
+    "dimensions": "736x177"
+  },
+  {
+    "page": 6,
+    "region": 2,
+    "image": "examples/code_p006_138_1111.png",
+    "dimensions": "737x148"
+  },
+  {
+    "page": 6,
+    "region": 3,
+    "image": "examples/code_p006_138_954.png",
+    "dimensions": "737x126"
+  },
+  {
+    "page": 7,
+    "region": 1,
+    "image": "examples/code_p007_133_439.png",
+    "dimensions": "734x125"
+  },
+  {
+    "page": 8,
+    "region": 1,
+    "image": "examples/code_p008_135_1099.png",
+    "dimensions": "735x227"
+  },
+  {
+    "page": 8,
+    "region": 2,
+    "image": "examples/code_p008_134_249.png",
+    "dimensions": "736x201"
+  },
+  {
+    "page": 8,
+    "region": 3,
+    "image": "examples/code_p008_134_527.png",
+    "dimensions": "736x176"
+  },
+  {
+    "page": 18,
+    "region": 1,
+    "image": "examples/code_p018_140_665.png",
+    "dimensions": "735x150"
+  },
+  {
+    "page": 18,
+    "region": 2,
+    "image": "examples/code_p018_140_849.png",
+    "dimensions": "735x149"
+  },
+  {
+    "page": 18,
+    "region": 3,
+    "image": "examples/code_p018_141_1031.png",
+    "dimensions": "733x123"
+  },
+  {
+    "page": 19,
+    "region": 1,
+    "image": "examples/code_p019_129_390.png",
+    "dimensions": "736x413"
+  },
+  {
+    "page": 19,
+    "region": 2,
+    "image": "examples/code_p019_128_939.png",
+    "dimensions": "737x401"
+  },
+  {
+    "page": 20,
+    "region": 1,
+    "image": "examples/code_p020_140_177.png",
+    "dimensions": "727x414"
+  },
+  {
+    "page": 20,
+    "region": 2,
+    "image": "examples/code_p020_137_919.png",
+    "dimensions": "736x163"
+  },
+  {
+    "page": 21,
+    "region": 1,
+    "image": "examples/code_p021_129_985.png",
+    "dimensions": "734x122"
+  },
+  {
+    "page": 22,
+    "region": 1,
+    "image": "examples/code_p022_333_411.png",
+    "dimensions": "532x447"
+  },
+  {
+    "page": 22,
+    "region": 2,
+    "image": "examples/code_p022_170_951.png",
+    "dimensions": "551x126"
+  },
+  {
+    "page": 23,
+    "region": 1,
+    "image": "examples/code_p023_282_953.png",
+    "dimensions": "441x408"
+  },
+  {
+    "page": 23,
+    "region": 2,
+    "image": "examples/code_p023_131_165.png",
+    "dimensions": "728x176"
+  },
+  {
+    "page": 23,
+    "region": 3,
+    "image": "examples/code_p023_131_696.png",
+    "dimensions": "735x148"
+  },
+  {
+    "page": 24,
+    "region": 1,
+    "image": "examples/code_p024_328_723.png",
+    "dimensions": "534x445"
+  },
+  {
+    "page": 27,
+    "region": 1,
+    "image": "examples/code_p027_218_1143.png",
+    "dimensions": "566x131"
+  },
+  {
+    "page": 32,
+    "region": 1,
+    "image": "examples/code_p032_134_632.png",
+    "dimensions": "734x123"
+  },
+  {
+    "page": 33,
+    "region": 1,
+    "image": "examples/code_p033_120_693.png",
+    "dimensions": "735x149"
+  },
+  {
+    "page": 33,
+    "region": 2,
+    "image": "examples/code_p033_246_381.png",
+    "dimensions": "321x249"
+  },
+  {
+    "page": 34,
+    "region": 1,
+    "image": "examples/code_p034_144_837.png",
+    "dimensions": "733x153"
+  },
+  {
+    "page": 35,
+    "region": 1,
+    "image": "examples/code_p035_128_241.png",
+    "dimensions": "735x126"
+  },
+  {
+    "page": 35,
+    "region": 2,
+    "image": "examples/code_p035_129_894.png",
+    "dimensions": "734x122"
+  },
+  {
+    "page": 36,
+    "region": 1,
+    "image": "examples/code_p036_140_823.png",
+    "dimensions": "734x203"
+  },
+  {
+    "page": 36,
+    "region": 2,
+    "image": "examples/code_p036_139_622.png",
+    "dimensions": "734x121"
+  },
+  {
+    "page": 40,
+    "region": 1,
+    "image": "examples/code_p040_223_674.png",
+    "dimensions": "637x106"
+  },
+  {
+    "page": 40,
+    "region": 2,
+    "image": "examples/code_p040_156_1098.png",
+    "dimensions": "308x113"
+  },
+  {
+    "page": 41,
+    "region": 1,
+    "image": "examples/code_p041_503_753.png",
+    "dimensions": "320x106"
+  },
+  {
+    "page": 42,
+    "region": 1,
+    "image": "examples/code_p042_479_1062.png",
+    "dimensions": "329x193"
+  },
+  {
+    "page": 42,
+    "region": 2,
+    "image": "examples/code_p042_219_567.png",
+    "dimensions": "580x104"
+  },
+  {
+    "page": 44,
+    "region": 1,
+    "image": "examples/code_p044_136_170.png",
+    "dimensions": "734x128"
+  },
+  {
+    "page": 44,
+    "region": 2,
+    "image": "examples/code_p044_482_894.png",
+    "dimensions": "341x107"
+  },
+  {
+    "page": 45,
+    "region": 1,
+    "image": "examples/code_p045_216_954.png",
+    "dimensions": "478x132"
+  },
+  {
+    "page": 46,
+    "region": 1,
+    "image": "examples/code_p046_224_504.png",
+    "dimensions": "638x614"
+  },
+  {
+    "page": 46,
+    "region": 2,
+    "image": "examples/code_p046_172_269.png",
+    "dimensions": "671x164"
+  },
+  {
+    "page": 47,
+    "region": 1,
+    "image": "examples/code_p047_306_1073.png",
+    "dimensions": "387x221"
+  },
+  {
+    "page": 49,
+    "region": 1,
+    "image": "examples/code_p049_120_164.png",
+    "dimensions": "735x150"
+  },
+  {
+    "page": 49,
+    "region": 2,
+    "image": "examples/code_p049_322_943.png",
+    "dimensions": "535x105"
+  },
+  {
+    "page": 50,
+    "region": 1,
+    "image": "examples/code_p050_170_469.png",
+    "dimensions": "684x765"
+  },
+  {
+    "page": 50,
+    "region": 2,
+    "image": "examples/code_p050_171_184.png",
+    "dimensions": "690x161"
+  }
+]
